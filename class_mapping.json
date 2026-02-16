@@ -1,0 +1,14 @@
+{
+  "class_to_idx": {
+    "damage": 0,
+    "normal": 1
+  },
+  "idx_to_class": {
+    "0": "damage",
+    "1": "normal"
+  },
+  "classes": [
+    "damage",
+    "normal"
+  ]
+}
